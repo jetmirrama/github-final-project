@@ -8,9 +8,9 @@ A lightweight Python program to calculate **simple interest** based on the given
 - **`r`** – Annual interest rate (as a percentage)
 
 ## 📤 Output
-- **Simple Interest** calculated using the formula:
+**Simple Interest** calculated using the formula:
   
-  Simple Interest} = p * t * r
+- Simple Interest = p * t * r
 
 ## 🚀 Usage
 To use the calculator, provide values for `p`, `t`, and `r`, then execute the program.
