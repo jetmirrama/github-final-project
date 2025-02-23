@@ -9,10 +9,8 @@ A lightweight Python program to calculate **simple interest** based on the given
 
 ## 📤 Output
 - **Simple Interest** calculated using the formula:
-
-  \[
-  \text{Simple Interest} = p \times t \times \frac{r}{100}
-  \]
+  
+  Simple Interest} = p * t * r
 
 ## 🚀 Usage
 To use the calculator, provide values for `p`, `t`, and `r`, then execute the program.
